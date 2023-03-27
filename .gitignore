@@ -1,0 +1,12 @@
+# dependencies
+pacckage-lock.json
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
